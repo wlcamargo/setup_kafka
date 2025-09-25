@@ -55,6 +55,14 @@ link: [http://localhost:8501](http://localhost:8501)
 python consumer_s3.py
 ```
 
+#### how can access s3? 
+link: [http://localhost:9000](http://localhost:9000)
+
+```
+Login: chapolin
+Password: mudar@123
+```
+
 ## References
 
 https://kafka.apache.org/documentation
