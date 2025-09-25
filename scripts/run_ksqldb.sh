@@ -1,0 +1,1 @@
+docker exec -it ksqldb ksql http://localhost:8088
